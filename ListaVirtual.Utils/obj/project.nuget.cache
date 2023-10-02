@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "sRIQs6jBIonBZBmOf3vrS2Zv3QyX45opxoXr0HOmo4Z8W8Yfr1+mrvx9LexNoW/SXre+KCO2RSj2nTJpWoedJg==",
+  "dgSpecHash": "YeouiiHfB9DyahQ49nAWLg6uFN3B3FTSuTkACVhtZVDi8cVXowz9v2C+o0quV9FDv9JhWW9oTAQnkgsdpZWSYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alana\\source\\repos\\FilaVirtual\\ListaVirtual.Utils\\ListaVirtual.Utils.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\alana\\source\\repos\\FilaVirtual\\ListaVirtual.Utils\\FilaVirtual.Util.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alana\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\alana\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.0\\microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "C:\\Users\\alana\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\alana\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\alana\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

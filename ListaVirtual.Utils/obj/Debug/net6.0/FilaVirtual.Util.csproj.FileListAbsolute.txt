@@ -1,0 +1,12 @@
+C:\Users\alana\source\repos\FilaVirtual\ListaVirtual.Utils\bin\Debug\net6.0\FilaVirtual.Util.deps.json
+C:\Users\alana\source\repos\FilaVirtual\ListaVirtual.Utils\bin\Debug\net6.0\FilaVirtual.Util.dll
+C:\Users\alana\source\repos\FilaVirtual\ListaVirtual.Utils\bin\Debug\net6.0\FilaVirtual.Util.pdb
+C:\Users\alana\source\repos\FilaVirtual\ListaVirtual.Utils\obj\Debug\net6.0\FilaVirtual.Util.csproj.AssemblyReference.cache
+C:\Users\alana\source\repos\FilaVirtual\ListaVirtual.Utils\obj\Debug\net6.0\FilaVirtual.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alana\source\repos\FilaVirtual\ListaVirtual.Utils\obj\Debug\net6.0\FilaVirtual.Util.AssemblyInfoInputs.cache
+C:\Users\alana\source\repos\FilaVirtual\ListaVirtual.Utils\obj\Debug\net6.0\FilaVirtual.Util.AssemblyInfo.cs
+C:\Users\alana\source\repos\FilaVirtual\ListaVirtual.Utils\obj\Debug\net6.0\FilaVirtual.Util.csproj.CoreCompileInputs.cache
+C:\Users\alana\source\repos\FilaVirtual\ListaVirtual.Utils\obj\Debug\net6.0\FilaVirtual.Util.dll
+C:\Users\alana\source\repos\FilaVirtual\ListaVirtual.Utils\obj\Debug\net6.0\refint\FilaVirtual.Util.dll
+C:\Users\alana\source\repos\FilaVirtual\ListaVirtual.Utils\obj\Debug\net6.0\FilaVirtual.Util.pdb
+C:\Users\alana\source\repos\FilaVirtual\ListaVirtual.Utils\obj\Debug\net6.0\ref\FilaVirtual.Util.dll

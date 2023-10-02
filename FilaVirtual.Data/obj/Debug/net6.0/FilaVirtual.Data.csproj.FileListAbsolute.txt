@@ -1,0 +1,17 @@
+C:\Users\alana\source\repos\FilaVirtual\FilaVirtual.Data\bin\Debug\net6.0\FilaVirtual.Data.deps.json
+C:\Users\alana\source\repos\FilaVirtual\FilaVirtual.Data\bin\Debug\net6.0\FilaVirtual.Data.dll
+C:\Users\alana\source\repos\FilaVirtual\FilaVirtual.Data\bin\Debug\net6.0\FilaVirtual.Data.pdb
+C:\Users\alana\source\repos\FilaVirtual\FilaVirtual.Data\bin\Debug\net6.0\FilaVirtual.Business.dll
+C:\Users\alana\source\repos\FilaVirtual\FilaVirtual.Data\bin\Debug\net6.0\FilaVirtual.Util.dll
+C:\Users\alana\source\repos\FilaVirtual\FilaVirtual.Data\bin\Debug\net6.0\FilaVirtual.Business.pdb
+C:\Users\alana\source\repos\FilaVirtual\FilaVirtual.Data\bin\Debug\net6.0\FilaVirtual.Util.pdb
+C:\Users\alana\source\repos\FilaVirtual\FilaVirtual.Data\obj\Debug\net6.0\FilaVirtual.Data.csproj.AssemblyReference.cache
+C:\Users\alana\source\repos\FilaVirtual\FilaVirtual.Data\obj\Debug\net6.0\FilaVirtual.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alana\source\repos\FilaVirtual\FilaVirtual.Data\obj\Debug\net6.0\FilaVirtual.Data.AssemblyInfoInputs.cache
+C:\Users\alana\source\repos\FilaVirtual\FilaVirtual.Data\obj\Debug\net6.0\FilaVirtual.Data.AssemblyInfo.cs
+C:\Users\alana\source\repos\FilaVirtual\FilaVirtual.Data\obj\Debug\net6.0\FilaVirtual.Data.csproj.CoreCompileInputs.cache
+C:\Users\alana\source\repos\FilaVirtual\FilaVirtual.Data\obj\Debug\net6.0\FilaVirtual.Data.csproj.CopyComplete
+C:\Users\alana\source\repos\FilaVirtual\FilaVirtual.Data\obj\Debug\net6.0\FilaVirtual.Data.dll
+C:\Users\alana\source\repos\FilaVirtual\FilaVirtual.Data\obj\Debug\net6.0\refint\FilaVirtual.Data.dll
+C:\Users\alana\source\repos\FilaVirtual\FilaVirtual.Data\obj\Debug\net6.0\FilaVirtual.Data.pdb
+C:\Users\alana\source\repos\FilaVirtual\FilaVirtual.Data\obj\Debug\net6.0\ref\FilaVirtual.Data.dll
